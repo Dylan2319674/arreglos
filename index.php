@@ -9,7 +9,7 @@ for ($i = 0; $i < 50; $i++) {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Arreglos PHP</title>
+    <title>Arreglos Aleatorios</title>
 </head>
 <body>
     <h1>Arreglo de 50 números aleatorios</h1>
